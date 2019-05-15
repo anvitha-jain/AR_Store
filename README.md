@@ -43,8 +43,8 @@ dependencies {
 
 4. Ensure that the following permissions are present in the AndroidManifest.xml
 
-1. INTERNET
-2. CAMERA
-3. ACCESS_NETWORK_STATE
-4. WRITE_EXTERNAL_STORAGE
-5. READ_EXTERNAL_STORAGE
+ * INTERNET
+ * CAMERA
+ * ACCESS_NETWORK_STATE
+ * WRITE_EXTERNAL_STORAGE
+ * READ_EXTERNAL_STORAGE
