@@ -43,10 +43,10 @@ dependencies {
 
 4. Ensure that the following permissions are present in the AndroidManifest.xml
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> 
+    <uses-permission android:name="android.permission.INTERNET" /> </br>
+    <uses-permission android:name="android.permission.CAMERA" />  </br>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />  </br>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />  </br>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />   </br>
 
 
