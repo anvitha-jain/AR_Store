@@ -8,27 +8,20 @@
 ## Sample Demo Screenshots:
 
 
-<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg" height="350" width="200">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im2.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im3.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im4.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im5.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im6.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im7.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im8.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im9.jpg" height="350" width="250">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im10.jpg" height="350" width="250">
 
-![1](https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg =20x30)
 
-![2](https://github.com/anvitha-jain/AR_Store/blob/master/im2.jpg)
 
-![3](https://github.com/anvitha-jain/AR_Store/blob/master/im3.jpg)
 
-![4](https://github.com/anvitha-jain/AR_Store/blob/master/im4.jpg)
-
-![5](https://github.com/anvitha-jain/AR_Store/blob/master/im5.jpg)
-
-![6](https://github.com/anvitha-jain/AR_Store/blob/master/im6.jpg)
-
-![7](https://github.com/anvitha-jain/AR_Store/blob/master/im7.jpg)
-
-![8](https://github.com/anvitha-jain/AR_Store/blob/master/im8.jpg)
-
-![9](https://github.com/anvitha-jain/AR_Store/blob/master/im9.jpg)
-
-![10](https://github.com/anvitha-jain/AR_Store/blob/master/im10.jpg)
 
 
 ## Setup and Run Instructions: 
