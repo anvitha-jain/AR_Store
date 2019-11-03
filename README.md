@@ -8,7 +8,7 @@
 ## Sample Demo Screenshots:
 
 
-![1](https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg)
+![1](https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg =20x30)
 
 ![2](https://github.com/anvitha-jain/AR_Store/blob/master/im2.jpg)
 
