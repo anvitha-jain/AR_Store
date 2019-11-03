@@ -8,7 +8,7 @@
 ## Sample Demo Screenshots:
 
 
-<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg" height="24" width="48">
+<img src="https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg" height="150" width="100">
 
 ![1](https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg =20x30)
 
