@@ -1,10 +1,33 @@
-# AR Shop Store
+# AR Store Shop
 
 
 ## [Demo](https://drive.google.com/open?id=1yO8KbxmN-wrvnoNnCXHpylhwH5JiO_7M)
 
 
 ### Pre-Requisites: Android API 28 or Android Pi or higher.
+## Sample Demo Screenshots:
+
+
+![1](https://github.com/anvitha-jain/AR_Store/blob/master/im1.jpg)
+
+![2](https://github.com/anvitha-jain/AR_Store/blob/master/im2.jpg)
+
+![3](https://github.com/anvitha-jain/AR_Store/blob/master/im3.jpg)
+
+![4](https://github.com/anvitha-jain/AR_Store/blob/master/im4.jpg)
+
+![5](https://github.com/anvitha-jain/AR_Store/blob/master/im5.jpg)
+
+![6](https://github.com/anvitha-jain/AR_Store/blob/master/im6.jpg)
+
+![7](https://github.com/anvitha-jain/AR_Store/blob/master/im7.jpg)
+
+![8](https://github.com/anvitha-jain/AR_Store/blob/master/im8.jpg)
+
+![9](https://github.com/anvitha-jain/AR_Store/blob/master/im9.jpg)
+
+![10](https://github.com/anvitha-jain/AR_Store/blob/master/im10.jpg)
+
 
 ## Setup and Run Instructions: 
 
